@@ -1,7 +1,7 @@
 # Job Finder
 
 <p align="center">
-  <img width="1200" height="815" alt="Captura de tela 2026-09-06 234836" src="https://github.com/user-attachments/assets/64aff0f6-a908-4602-8eca-6a6859c035f8" />
+  <img width="1191" height="718" alt="Captura de tela 2026-09-07 001258" src="https://github.com/user-attachments/assets/9b99c677-8129-45a5-8cf5-0705f65db060" />
 </p>
 
 ## Sobre o projeto
