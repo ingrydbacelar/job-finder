@@ -68,7 +68,7 @@ A versão disponibilizada neste repositório tem como objetivo apresentar a **in
 > Algumas funcionalidades e componentes da aplicação original podem não estar disponíveis neste repositório.
 
 <p align="center">
-  <a href="COLE-AQUI-O-LINK-DA-DEMONSTRACAO">
+  <a href="https://ingrydbacelar.github.io/job-finder/">
     <img src="https://img.shields.io/badge/🔗%20Visualizar%20demonstração-166534?style=for-the-badge&logoColor=white" alt="Visualizar demonstração">
   </a>
 </p>
